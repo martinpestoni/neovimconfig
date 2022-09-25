@@ -1,2 +1,1 @@
-# neovimconfig
-NeoVim Configuration File
+# NeoVim Configuration File
