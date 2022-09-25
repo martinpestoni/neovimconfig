@@ -9,3 +9,8 @@ Plugins used:
 - nerdtree
 - telescope.nvim
 - plenary.nvim
+
+
+Screenshot:
+
+![alt text](https://github.com/martinpestoni/neovimconfig/blob/main/sc.png)
