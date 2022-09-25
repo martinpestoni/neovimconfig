@@ -1,5 +1,5 @@
 set number
-colorscheme peachpuff
+colorscheme desert
 
 "Plugins-------------------------------------------------------------------
 call plug#begin()
